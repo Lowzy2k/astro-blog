@@ -1,4 +1,4 @@
-An attempt to make a Tech blog made in Astro.
+An attempt to make a Tech blog with Astro web framework.
 
 ## 🧞 Commands
 
